@@ -7,9 +7,9 @@ namespace Biblioteca
 {
     public sealed class Presentacion
     {
-        public Presentacion()
+        public Presentacion(string ruta)
         {
-            RutaPresentacion = "./presentacion.csv";
+            RutaPresentacion = ruta;
         }
 
         public string RutaPresentacion { get; }
@@ -31,7 +31,7 @@ namespace Biblioteca
             catch (System.IO.FileNotFoundException)
             {
                 Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine($"No se pudo leer el arcivo");
+                Console.WriteLine($"No se pudo leer el archivo");
                 Console.WriteLine($"/*----------------------------------------------------*/");
                 Console.ForegroundColor = ConsoleColor.Yellow;
                 Console.WriteLine($"El error que ocurrio fue:");

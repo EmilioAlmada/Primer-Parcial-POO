@@ -39,7 +39,7 @@ namespace Programa_Gym
             Alumno Alumno3 = new Alumno("Martina", "Rios", 99999999);
             Alumno Alumno4 = new Alumno("Gonzalo", "Lamana", 10101010);
 
-            var InicioDelPrograma = new Presentacion();
+            var InicioDelPrograma = new Presentacion("./presentacion.csv");
             InicioDelPrograma.IniciarPresentacion();
 
             // Inscripcion del primer alumno a la clase de natacion

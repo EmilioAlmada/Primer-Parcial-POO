@@ -6,8 +6,11 @@ namespace Biblioteca
     {
         public Profesor() { }
 
-        public Profesor(string nombre, string apellido, int dni, Clase clase) : base(nombre, apellido, dni)
+        public Profesor(string nombre, string apellido, int dni, Clase clase)
         {
+            Nombre = nombre;
+            Apellido = apellido;
+            Dni = dni;
             ClasesACargo = new List<Clase>();
             AsignarClase(clase);
         }
