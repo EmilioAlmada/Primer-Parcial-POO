@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ISTEA\\C#\\Poo\\Parciales\\Primer_Parcial\\Solucion_Primer_Parcial\\Biblioteca\\Biblioteca.csproj": {}
+    "C:\\ISTEA\\C#\\POO\\Parciales\\Primer_Parcial\\Solucion_Primer_Parcial\\Biblioteca\\Biblioteca.csproj": {}
   },
   "projects": {
-    "C:\\ISTEA\\C#\\Poo\\Parciales\\Primer_Parcial\\Solucion_Primer_Parcial\\Biblioteca\\Biblioteca.csproj": {
+    "C:\\ISTEA\\C#\\POO\\Parciales\\Primer_Parcial\\Solucion_Primer_Parcial\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ISTEA\\C#\\Poo\\Parciales\\Primer_Parcial\\Solucion_Primer_Parcial\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "C:\\ISTEA\\C#\\POO\\Parciales\\Primer_Parcial\\Solucion_Primer_Parcial\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "C:\\ISTEA\\C#\\Poo\\Parciales\\Primer_Parcial\\Solucion_Primer_Parcial\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "C:\\ISTEA\\C#\\POO\\Parciales\\Primer_Parcial\\Solucion_Primer_Parcial\\Biblioteca\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\Churus\\.nuget\\packages\\",
-        "outputPath": "C:\\ISTEA\\C#\\Poo\\Parciales\\Primer_Parcial\\Solucion_Primer_Parcial\\Biblioteca\\obj\\",
+        "outputPath": "C:\\ISTEA\\C#\\POO\\Parciales\\Primer_Parcial\\Solucion_Primer_Parcial\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

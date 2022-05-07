@@ -161,6 +161,8 @@ namespace Programa_Gym
             {
                 profesor.Cobrar();
             }
+
+            Console.WriteLine($"¡Gracias por utilizar el proyecto!");            
         }
     }
 }
