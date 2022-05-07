@@ -1,0 +1,12 @@
+C:\ISTEA\C#\POO\Parciales\Primer_Parcial\Solucion_Primer_Parcial\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+C:\ISTEA\C#\POO\Parciales\Primer_Parcial\Solucion_Primer_Parcial\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+C:\ISTEA\C#\POO\Parciales\Primer_Parcial\Solucion_Primer_Parcial\Biblioteca\bin\Debug\net5.0\ref\Biblioteca.dll
+C:\ISTEA\C#\POO\Parciales\Primer_Parcial\Solucion_Primer_Parcial\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+C:\ISTEA\C#\POO\Parciales\Primer_Parcial\Solucion_Primer_Parcial\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+C:\ISTEA\C#\POO\Parciales\Primer_Parcial\Solucion_Primer_Parcial\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\ISTEA\C#\POO\Parciales\Primer_Parcial\Solucion_Primer_Parcial\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+C:\ISTEA\C#\POO\Parciales\Primer_Parcial\Solucion_Primer_Parcial\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+C:\ISTEA\C#\POO\Parciales\Primer_Parcial\Solucion_Primer_Parcial\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\ISTEA\C#\POO\Parciales\Primer_Parcial\Solucion_Primer_Parcial\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+C:\ISTEA\C#\POO\Parciales\Primer_Parcial\Solucion_Primer_Parcial\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
+C:\ISTEA\C#\POO\Parciales\Primer_Parcial\Solucion_Primer_Parcial\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
