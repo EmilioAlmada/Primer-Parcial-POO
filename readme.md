@@ -2,6 +2,9 @@
 
 ## 🏋️ Ejercicio - Gimnacio. 🏋️
 
+## Acerca De (Presentacion del programa): 
+
+### El programa esta basado en la inscripcion de una serie de alumnos a las distintas clases de las distintas diciplinas de un gimnacio (Pueden anotarse a mas de una clase), a su vez, al final del progrma tambien se calcula el sueldo de los profesores del gimnacio, segun la cantidad de alumnos que tienen sus clases. El programa es guiado y con cierta interactividad para seleccionar posibles opciones.
 
 ## Descripcion del proyecto: 📓
 
